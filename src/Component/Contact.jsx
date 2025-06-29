@@ -4,6 +4,7 @@ import {
   FaFacebook,
   FaGithub,
   FaLinkedin,
+  FaMapMarkerAlt,
   FaPhoneAlt,
   FaWhatsapp,
 } from "react-icons/fa";
@@ -65,6 +66,11 @@ const Contact = () => {
                 <FaPhoneAlt size={24} className="text-green-400" />
                 <p className="hover:text-blue-400 transition">+8801617725840</p>
               </div>
+
+              <div className="flex items-center gap-4">
+    <FaMapMarkerAlt size={24} className="text-yellow-400" />
+    <p className="hover:text-blue-400 transition">Dhaka, Bangladesh</p>
+  </div>
 
               <div className="flex gap-4 mt-6 mb-6 justify-center md:justify-start">
                 <a

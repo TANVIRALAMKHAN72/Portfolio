@@ -18,7 +18,7 @@ const ImageSlider = ({ images = [] }) => {
   }
 
   return (
-    <div className="w-full h-64 relative overflow-hidden rounded-lg shadow-lg">
+    <div className="w-full h-56 relative overflow-hidden rounded-l-lg shadow-lg">
       {images.map((img, idx) => (
         <img
           key={idx}
