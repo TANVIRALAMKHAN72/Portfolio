@@ -28,7 +28,7 @@ const Hero = () => {
             download
             className="inline-block bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded shadow-md transition"
           >
-            Download
+            Resume Download
           </a>
 
           <div className="flex gap-4 mt-6 mb-6 justify-center md:justify-start">

@@ -17,8 +17,7 @@ const Education = () => {
               Diploma in Computer Science and Technology
             </h2>
             <p className="italic mb-1">
-              Running 4-year Diploma in CST | Last semester CGPA: 3.69 (out of
-              4.00)
+              Running 4-year Diploma in CST
             </p>
 
             <p>
