@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo2.png";
 import { Link as ScrollLink } from "react-scroll";
 
 const Navbar = () => {
@@ -26,7 +26,7 @@ const Navbar = () => {
           <img
             src={logo}
             alt="Logo"
-            className="h-12 w-auto rounded-md cursor-pointer"
+            className="h-10 w-auto rounded-md cursor-pointer"
           />
         </ScrollLink>
 
