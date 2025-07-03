@@ -40,7 +40,7 @@ const Hero = () => {
               <FaGithub size={28} className="hover:text-blue-400 transition" />
             </a>
             <a
-              href="https://www.linkedin.com/in/tanvir-alam-khan-84070b350/"
+              href="https://www.linkedin.com/in/tanvir-alam-khan/"
               target="_blank"
               rel="noopener noreferrer"
             >
