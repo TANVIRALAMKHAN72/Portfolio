@@ -19,7 +19,7 @@ import { Fade, Slide } from "react-awesome-reveal";
 
 const Skills = () => {
   return (
-    <section className=" bg-gray-900 text-white py-20 px-6">
+    <section id="skills" className=" bg-gray-900 text-white py-20 px-6">
       <div className="container mx-auto max-w-6xl">
         <Slide direction="down">
           <h1 className="text-4xl font-extrabold mb-12 text-blue-500 text-center">

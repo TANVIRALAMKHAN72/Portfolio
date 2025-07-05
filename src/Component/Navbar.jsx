@@ -57,6 +57,18 @@ const Navbar = () => {
           </li>
           <li>
             <ScrollLink
+              to="skills"
+              smooth={true}
+              duration={500}
+              onClick={handleLinkClick}
+              className="cursor-pointer text-white hover:text-blue-400"
+              offset={-70}
+            >
+              Skills
+            </ScrollLink>
+          </li>
+          <li>
+            <ScrollLink
               to="projects"
               smooth={true}
               duration={500}
@@ -113,6 +125,18 @@ const Navbar = () => {
               offset={-70}
             >
               About
+            </ScrollLink>
+          </li>
+           <li>
+            <ScrollLink
+              to="skills"
+              smooth={true}
+              duration={500}
+              onClick={handleLinkClick}
+              className="block cursor-pointer text-white hover:text-blue-400"
+              offset={-70}
+            >
+              Skills
             </ScrollLink>
           </li>
           <li>

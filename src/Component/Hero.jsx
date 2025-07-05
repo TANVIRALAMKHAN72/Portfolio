@@ -23,12 +23,12 @@ const Hero = () => {
           </p>
 
           <a
-            onClick={() => alert("Resume coming soon!")}
-            // href="/Tanvir_Resume.pdf"
-            download
+            href="https://drive.google.com/file/d/179-LO4N4MbU0h5womlP90zepqoZ4xWR0/view"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded shadow-md transition"
           >
-            Resume Download
+            View Resume
           </a>
 
           <div className="flex gap-4 mt-6 mb-6 justify-center md:justify-start">
