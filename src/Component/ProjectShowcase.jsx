@@ -93,7 +93,7 @@ const FeatureSection = () => {
               </p>
               <div className="flex flex-wrap gap-3">
                 <a
-                  href="https://astonishing-cobbler-9f2109.netlify.app/"
+                  href="https://storied-clafoutis-db7e09.netlify.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded text-sm transition inline-block text-center"
